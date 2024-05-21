@@ -12,4 +12,4 @@ I am passionate about learning and experimenting with the latest AI technologies
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mateo-balla/)
-- [E-mail](mailto:mateo.eneas.balla@gmail.com?subject=Reaching_out)
+- [E-mail](mailto:mateo.eneas.balla@gmail.com)
